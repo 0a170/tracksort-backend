@@ -1,0 +1,20 @@
+{
+  "name": "tracksort",
+  "version": "1.0.0",
+  "description": "Spotify album track sorting game - backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "tracksort",
+    "start": "node app.js"
+  },
+  "author": "0a170",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express.js": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
