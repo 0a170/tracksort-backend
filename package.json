@@ -15,6 +15,9 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express.js": "^1.0.0",
-    "request": "^2.88.2"
+    "extend": "^3.0.2",
+    "object-assign": "^4.1.1",
+    "request": "^2.88.2",
+    "tough-cookie": "^4.0.0"
   }
 }
